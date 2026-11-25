@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use these models, please cite them using the metadata below."
+title: "MATLAB/Simulink models of a two-rotor vibration machine with PID controllers, 2004"
+type: software
+version: "1.0"
+date-released: "2004-01-27"
+license: CC-BY-4.0
+doi: 10.5281/zenodo.24539725
+repository-code: "https://github.com/djaivardj/vibration-drive-simulink-2004"
+keywords:
+  - vibration machines
+  - two-motor vibration exciters
+  - electric drives
+  - mechatronics
+  - automatic control
+  - self-synchronization
+  - MATLAB
+  - Simulink
+  - PID controller
+authors:
+  - family-names: Dzhabbarov
+    given-names: Aivar D.
+    orcid: "https://orcid.org/0009-0001-0039-5159"
+    alias: "Aivar D. Djabbarov"
+references:
+  - type: thesis
+    title: "Development, design and investigation of a control system for the electric drives of vibration machines with two-motor centrifugal vibration exciters (Candidate of Technical Sciences dissertation, specialty 05.09.03)"
+    authors:
+      - family-names: Dzhabbarov
+        given-names: Aivar D.
+    year: 2006
+    institution:
+      name: "Saint Petersburg Electrotechnical University \"LETI\""
+    doi: 10.5281/zenodo.24539604
